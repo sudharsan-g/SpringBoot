@@ -1,0 +1,9 @@
+com\reactivebeg\api\Repository\DB1Repo\ProductRepo.class
+com\reactivebeg\api\Entity\DB1Entity\Product.class
+com\reactivebeg\api\Entity\DB2Entity\Film.class
+com\reactivebeg\api\Repository\DB2Repo\FilmRepo.class
+com\reactivebeg\api\Controlller\ProductController.class
+com\reactivebeg\api\ApiApplication.class
+com\reactivebeg\api\Service\ProductService.class
+com\reactivebeg\api\Configuration\db1Config.class
+com\reactivebeg\api\Configuration\db2Config.class
