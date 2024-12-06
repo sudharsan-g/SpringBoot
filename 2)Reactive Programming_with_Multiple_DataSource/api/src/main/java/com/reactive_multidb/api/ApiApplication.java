@@ -1,4 +1,4 @@
-package com.reactivebeg.api;
+package com.reactive_multidb.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

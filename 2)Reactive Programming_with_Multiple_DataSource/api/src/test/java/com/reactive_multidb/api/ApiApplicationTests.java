@@ -1,4 +1,4 @@
-package com.reactivebeg.api;
+package com.reactive_multidb.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
